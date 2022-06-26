@@ -1,0 +1,89 @@
+::selection{
+    color: #FFFFFF;
+    background-color: #0d1117;
+}
+
+.Top-Color{
+    background-color: #0d1117;
+    height: 200px;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.Seperator-Color{
+    background-color: #161b22;
+    height: 15px;
+    position: absolute;
+    top: 200px;
+    left: 0px;
+    right: 0px;
+}
+
+.Top-Color-Clone{
+    background-color: #0d1117;
+    position: absolute;
+    top: 215px;
+    height: 650px;
+    left: 0px;
+    right: 0px;
+}
+
+.End{
+    background-color: #0d1117;
+    position: absolute;
+    top: 865px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.Para-1{
+    color: #FFFFFF;
+    font-size: xx-large;
+    padding: 50px;
+    text-align: center;
+}
+
+.Bulb-Text{
+    font-size: xx-large;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.Button_1{
+    font-size: large;
+    border-color: #0d1117;
+    background-color: #FFFFFF;
+    color: #0d1117;
+}
+
+.Button_On{
+    font-size: large;
+    border-color: #0d1117;
+    background-color: #FFFFFF;
+    color: #0d1117;
+}
+
+.Button_Off{
+    font-size: large;
+    border-color: #0d1117;
+    background-color: #FFFFFF;
+    color: #0d1117;
+}
+
+.Button_On:hover{
+    font-size: large;
+    border-color: #00FFFF;
+    background-color: #00FFFF;
+    color: #0d1117;
+}
+
+.Button_Off:hover{
+    font-size: large;
+    border-color: #00FFFF;
+    background-color: #00FFFF;
+    color: #0d1117;
+}
